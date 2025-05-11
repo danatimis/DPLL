@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1746967370 source:c:\users\alexandra\desktop\facultate\mpi\dpll\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<fstream>
+	<sstream>
+
